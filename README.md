@@ -41,7 +41,6 @@ STM8S 芯片驱动
 *	main.c ： Hekr协议使用样板
 *	stm8_interrupt_vector.c ： STM8中断向量表
 
-
 ####System
 STM8 系统时钟等相关配置与定义
 
